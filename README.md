@@ -32,4 +32,4 @@ Life isn’t only terminals and tensors. When my brain feels too loud, I’m:
 *This profile is less a portfolio and more a notebook I left open for anyone passing by. Welcome to the lab.*
 
 ---
-**[LinkedIn]([https://www.linkedin.com/in/chinmay-dharmik/]) | [Personal Blog](link) | [Say Hi!](mailto:chinmaydharmik@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/chinmay-dharmik/) | [Personal Blog](link) | [Say Hi!](mailto:chinmaydharmik@gmail.com)**
