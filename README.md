@@ -1,25 +1,26 @@
 # Chinmay Dharmik
 
-**AI Engineer | ML & Systems** Focusing on Generative AI, RAG architectures, and scalable backend systems.
+Engineer, wanderer, and collector of small obsessions. 
+
+Some days I’m neck-deep in **Gen AI** and **RAG pipelines**. Other days I’m tinkering with **Linux** until the terminal feels like home again. I build things to see ideas turn real—even if the final version only works because of three "design choice" hacks.
 
 ---
 
-### 🛠 Tech Stack
-- **AI/ML:** PyTorch, Hugging Face, LangChain, vLLM, RAG.
-- **Backend:** Python (FastAPI, Flask), Node.js, Vector DBs.
-- **Infrastructure:** Docker, Kubernetes, AWS, Cloudflare.
+### 🛠 The Toolkit
+- **Deep Dives:** PyTorch, LLMs, Vector DBs, RAG.
+- **The Core:** Python, FastAPI, Node.js, Docker.
+- **Side Quests:** Digital Signal Processing, Linux Rice, Linux Kernels.
 
 ---
 
-### 📂 Key Projects
-
-* **[MyOS](link-to-repo):** Personal AI OS with task slicing and long-term memory (Vector DB).
-* **[LLM Serving](link-to-repo):** Framework for scalable LLM inference and evaluation.
-* **[Flute Tuner](link-to-repo):** Digital signal processing tool (Python/JS).
+### 📂 Selected Experiments
+* **[MyOS](link):** A personal AI OS born from a hyperfixation on task-slicing and long-term memory.
+* **[LLM Serving](link):** Making models behave in production.
+* **[Flute Tuner](link):** Where digital signal processing meets my musical side quests.
 
 ---
 
-### 📈 Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=ChinmayDharmik&show_icons=true&theme=v_dark&hide_border=true)
+### 🌙 Off-Screen
+When the brain feels too loud, I’m usually playing guitar, swimming, or disappearing into a video game world I didn’t have to code myself. 
 
-[LinkedIn](your-link) | [Email](mailto:chinmaydharmik@gmail.com)
+[LinkedIn](link) | [Personal Blog](link)
