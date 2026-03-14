@@ -1,36 +1,41 @@
 # 📍 Chinmay Dharmik
-**Engineer | Tinkerer | Chronic Wanderer**
+**AI & Systems Engineer | Curious by Design**
 
-I build things because I like seeing ideas turn into something real... even if the first version breaks, the tenth misbehaves, and the final one only works because of three "hacks" I’ll pretend were design choices.
-
----
-
-### 🧠 The Core: AI & Systems
-I’m often neck-deep in **Generative AI** and **RAG architectures**. I enjoy the quiet puzzles inside systems: the way a model trains, the way a GPU bottlenecks, and the way a tiny config change can suddenly make everything fall into place.
-
-* **[MyOS](link):** A personal AI operating system born from a hyperfixation on task-slicing and long-term memory. It’s an attempt to give my laptop a brain (since mine is usually full).
-* **[LLM Serving](link):** Experiments in making models behave in production—because a model is only as good as its deployment.
-
-### 🐧 The Habitat: Linux & Terminals
-Some days, I disappear into my `dotfiles`. I’m a firm believer in tinkering with my environment until the terminal feels more like home than my actual room. If it can be automated, I’ve probably tried (and partially failed) to automate it.
-
-### 🎸 The Side Quests: Signal & Sound
-Life isn't only tensors. I’m a collector of small obsessions that keep the brain from getting too loud:
-* **Digital Signal Processing:** Building tools like my **Flute Tuner** to bridge the gap between music theory and Python.
-* **The Slow Down:** I play guitar to decompress, swim to reset, and dive into video games to explore worlds I didn't have to code myself.
+I’m an engineer who thrives in the "quiet puzzles" of complex systems. I build because I’m obsessed with the transition from a messy idea to a functional reality—handling the bottlenecks, the broken versions, and the architectural pivots along the way.
 
 ---
 
-### 🛠 My Workbench
-| Focus | Tools of the Trade |
+### 🚀 Technical Expertise & Experiments
+
+I treat every project as a deep dive into a new domain. My work is a collection of experiments in:
+
+* **Generative AI & RAG:** Architecting systems that don't just "respond" but remember. I focus on **Vector DBs**, **Task Slicing**, and the infrastructure required to make LLMs scalable and context-aware.
+* **Systems & Backend:** I enjoy the friction of the backend—optimizing **FastAPI** services, managing **Docker** environments, and ensuring the "plumbing" of an application is as elegant as the logic.
+* **Linux & Automation:** My terminal is my home. I’ve spent years tinkering with **Linux environments** and automation scripts, giving me a deep comfort with the CLI and system-level troubleshooting.
+* **Digital Signal Processing:** A bridge between my musical side and my code. I apply **Python** to audio frequencies, building tools that require high precision and low-latency logic.
+
+---
+
+### 🛠 The Workbench (Hirable Stack)
+
+| Domain | Technologies |
 | :--- | :--- |
-| **Intelligence** | PyTorch, Hugging Face, LangChain, Vector DBs |
-| **Foundation** | Python (FastAPI), Node.js, Linux (Arch/Debian) |
-| **Infrastructure** | Docker, Cloudflare, AWS, Git |
+| **Machine Learning** | PyTorch, Hugging Face, LangChain, vLLM, RAG Pipelines |
+| **Backend & APIs** | Python (FastAPI, Flask), Node.js, REST Architecture |
+| **Infrastructure** | Linux (Arch/Debian), Docker, AWS, Cloudflare, Git |
+| **Data Layers** | PostgreSQL, MongoDB, ChromaDB, Pinecone |
 
 ---
 
-### 📬 A Notebook Left Open
-This profile is less of a portfolio and more of a notebook I left open for anyone passing by. If you’re into AI, Linux, music, or just the odd comfort of watching someone chase curiosity, you’ll feel at home here.
+### 📈 Beyond the Terminal
+I believe the best engineers are the ones who know how to slow down. When I'm not resolving a GPU bottleneck, I’m:
+* **Swimming** or walking to reset the mental stack.
+* **Playing Guitar** to explore signal and harmony off-screen.
+* **Exploring** new worlds in gaming—appreciating systems I didn't have to build.
 
-**[LinkedIn](link) | [Personal Blog](link) | [Email](mailto:chinmaydharmik@gmail.com)**
+---
+
+### 📬 Let's Connect
+I'm always open to discussing **Gen AI, Backend Architecture, or Linux side-quests.**
+
+**[LinkedIn](your-link) | [Portfolio/Blog](your-link) | [Email](mailto:chinmaydharmik@gmail.com)**
