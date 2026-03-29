@@ -35,4 +35,4 @@ Life isn’t only terminals and tensors. When the brain gets too loud, I’m:
 
 ---
 
-**[LinkedIn](https://www.linkedin.com/in/chinmay-dharmik/) | [Say Hi!](mailto:chinmaydharmik@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/chinmay-dharmik/) | [Blog](https://blog-5h2.pages.dev/) [Say Hi!](mailto:chinmaydharmik@gmail.com)**
